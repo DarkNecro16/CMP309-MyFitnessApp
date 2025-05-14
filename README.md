@@ -102,7 +102,6 @@
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Presentation Link  
+[Watch the presentation on YouTube](https://youtu.be/16fvQow0sS0)
 
-```bash
-git clone https://github.com/your-username/passion-fitness.git
